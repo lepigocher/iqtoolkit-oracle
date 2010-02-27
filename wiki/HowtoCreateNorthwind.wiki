@@ -1,5 +1,5 @@
+#summary How to Create Northwind testing database in Oracle
 #labels Featured,Phase-Implementation
-#How to Create Northwind database in Oracle
 
 1. Create an Oracle account and login
 
