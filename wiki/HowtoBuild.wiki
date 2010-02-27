@@ -5,7 +5,7 @@
 
 1. Download and install [http://tortoisesvn.tigris.org/ TortoiseSVN]
 
-2. Create a directory IQToolkit.Data.OracleClient for source code
+2. Create a directory {{{IQToolkit.Data.OracleClient}}} for source code
 
 3. Check out source to the directory:
 {{{
