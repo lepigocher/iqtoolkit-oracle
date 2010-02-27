@@ -25,3 +25,7 @@ IQToolkit.Data.OracleClient (created in step 2)
 }}}
 
 4. Open and build {{{IQToolkit.Oracle.sln}}} with VS2008 SP1
+
+5. Edit connection string in app.config of Testing project to meet your environment (optional)
+
+6. Run Test project (optional)
